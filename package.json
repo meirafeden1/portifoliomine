@@ -1,6 +1,11 @@
-{
-  "name": "tunis",
-  "version": "2.1.1",
+
+
+  {
+  "name": "portifoliomine",
+  "version": "1.0.0",
+  "engines": {
+    "node": "18.x"
+  },
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
