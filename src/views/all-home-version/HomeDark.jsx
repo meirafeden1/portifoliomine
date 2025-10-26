@@ -130,7 +130,7 @@ const HomeDark = () => {
 
           {/* Blog Content Starts */}
           <TabPanel className="blog">
-            <div
+            {/* <div
               className="title-section text-left text-sm-center "
               data-aos="fade-up"
               data-aos-duration="1200"
@@ -139,7 +139,7 @@ const HomeDark = () => {
                 my <span>blog</span>
               </h1>
               <span className="title-bg">posts</span>
-            </div>
+            </div> */}
             <div
               className="container"
               data-aos="fade-up"
@@ -147,7 +147,7 @@ const HomeDark = () => {
             >
               {/*  Articles Starts  */}
               <div className="row pb-50">
-                <Blog />
+                {/* <Blog /> */}
               </div>
               {/* Articles Ends */}
             </div>

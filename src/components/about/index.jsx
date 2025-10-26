@@ -4,7 +4,7 @@ import Education from "./Education";
 import Experience from "./Experience";
 import PersonalInfo from "./PersonalInfo";
 import Skills from "./Skills";
-import cv from "../../assets/img/cv.webp";
+import cv from "../../assets/img/Eden AbebeResumeasoftwaredeveloper131";
 import heroImgMobile from "../../assets/img/hero/img-mobile.jpg";
 
 const index = () => {

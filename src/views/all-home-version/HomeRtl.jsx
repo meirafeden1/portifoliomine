@@ -150,7 +150,7 @@ const HomeRtl = () => {
             >
               {/*  Articles Starts  */}
               <div className="row pb-50">
-                <Blog />
+                {/* <Blog /> */}
               </div>
               {/* Articles Ends */}
             </div>

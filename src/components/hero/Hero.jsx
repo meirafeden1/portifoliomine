@@ -12,8 +12,7 @@ const heroContent = {
   heroMobileImage: heroImg1,
   heroTitleName: "Eden Teklu",
   heroDesignation: "A software Engineer",
-  heroDescriptions: `I am a Software Engineer with a strong focus on SharePoint development and modern web technologies. I specialize in SharePoint On-Premise and SharePoint Online solutions, including branding and site customization, content management, access control, custom web parts and automate business processes using the Power Platform (Power Apps, Power Automate, Power BI), out-of-the-box (OOB) features, Visual Studio, SharePoint Designer, and Microsoft 365 to enhance collaboration and productivity. Additionally, I develop scalable full-stack applications using React, Node.js, Express, and MySQL, ensuring performance, security, and an excellent user experience. I enjoy transforming complex ideas into functional, efficient, and visually appealing solutions.
-  With a deep interest in both frontend and backend development, I strive to write clean, maintainable code that emphasizes performance, security, and user experience. I’m constantly learning new technologies and best practices to stay ahead in the rapidly evolving tech industry.`,
+  heroDescriptions: `I am a Software Engineer with a strong focus on SharePoint development and modern web technologies. I specialize in SharePoint On-Premise and SharePoint Online solutions, including branding and site customization, content management, access control, creating sites, webparts, Libraries and automate business processes using the Power Platform (Power Apps, Power Automate, Power BI), out-of-the-box (OOB) features, Visual Studio, SharePoint Designer, and Microsoft 365 to enhance collaboration and productivity. Additionally, I develop scalable full-stack applications using React, Node.js, Express, and MySQL, ASP.NET, webforms, JavaScript, HTML, and CSS ensuring performance, security, and excellent user experience. I enjoy transforming complex ideas into functional, efficient, and visually appealing solutions. I’m constantly learning new technologies and best practices to stay ahead in the rapidly evolving tech industry.`,
   heroBtn: "more about me",
 };
 
@@ -26,21 +25,34 @@ const Hero = () => {
   return (
     <>
       <div className="row home-details-container align-items-center">
+
         <div
+  className="col-lg-4 bg position-fixed d-none d-lg-block"
+  style={{
+    backgroundImage: `url(${heroContent.heroImage})`,
+  }}
+></div>
+        {/* <div
           className="col-lg-4 bg position-fixed d-none d-lg-block"
           style={{
             backgroundImage: `url(${
               process.env.PUBLIC_URL + heroContent.heroImage
             })`,
           }}
-        ></div>
+        ></div> */}
         <div className="col-12 col-lg-8 offset-lg-4 home-details  text-center text-lg-start">
           <div>
-            <img
+            {/* <img
               src={heroContent.heroMobileImage}
               className="img-fluid main-img-mobile d-sm-block d-lg-none"
               alt="hero man"
-            />
+            /> */}
+
+            <img
+  src={heroContent.heroMobileImage}
+  className="img-fluid main-img-mobile d-sm-block d-lg-none"
+  alt="hero man"
+/>
             <h1 className="text-uppercase poppins-font">
               I'm {heroContent.heroTitleName}.
               <span>{heroContent.heroDesignation}</span>
