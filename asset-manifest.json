@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portifoliomine/static/css/main.bbc523e9.css",
-    "main.js": "/portifoliomine/static/js/main.a2b6715e.js",
+    "main.js": "/portifoliomine/static/js/main.6f0915eb.js",
     "static/js/206.bfa2aa1e.chunk.js": "/portifoliomine/static/js/206.bfa2aa1e.chunk.js",
     "static/media/video.mp4": "/portifoliomine/static/media/video.d225edd6d7d4d4a8f5b7.mp4",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/portifoliomine/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -10,7 +10,7 @@
     "static/media/myphoto747by1021.jpg": "/portifoliomine/static/media/myphoto747by1021.810b35f55f56120bbed2.jpg",
     "static/media/404.jpg": "/portifoliomine/static/media/404.19e523cdb4d4a12db938.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/portifoliomine/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/Eden AbebeResumeasoftwaredeveloper131.pdf": "/portifoliomine/static/media/Eden AbebeResumeasoftwaredeveloper131.c04c146f4f61ece1e86d.pdf",
+    "static/media/Eden AbebeResumeasoftwaredeveloper131.pdf": "/portifoliomine/static/media/Eden AbebeResumeasoftwaredeveloper131.9c6a4b411f18ed3ea70e.pdf",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/portifoliomine/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/rtl.jpg": "/portifoliomine/static/media/rtl.fc623d3befe9a7acb1ac.jpg",
     "static/media/dark.jpg": "/portifoliomine/static/media/dark.c1cda9e0d5088e62fa77.jpg",
@@ -21,11 +21,11 @@
     "static/media/slick.ttf": "/portifoliomine/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/cancel.svg": "/portifoliomine/static/media/cancel.17825c74c3c6b6934429010ee3f913fd.svg",
     "static/media/quote.svg": "/portifoliomine/static/media/quote.6b6d47557f1672a2ce0f199a1bd468dc.svg",
-    "static/media/slick.woff": "/portifoliomine/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/portifoliomine/index.html"
+    "index.html": "/portifoliomine/index.html",
+    "static/media/slick.woff": "/portifoliomine/static/media/slick.295183786cd8a1389865.woff"
   },
   "entrypoints": [
     "static/css/main.bbc523e9.css",
-    "static/js/main.a2b6715e.js"
+    "static/js/main.6f0915eb.js"
   ]
 }
