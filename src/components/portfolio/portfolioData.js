@@ -44,7 +44,7 @@ const PortfolioData = [
         project: "Website",        
         language: "REACT, NODE.JS, SQL",
         preview: "https://Evangadimine.com",
-        link: "https://dulcet-tiramisu-65b951.netlify.app/home",
+        link: "https://dulcet-tiramisu-65b951.netlify.app/",
       },
     ],
   },
