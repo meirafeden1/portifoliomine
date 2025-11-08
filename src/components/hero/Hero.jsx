@@ -12,7 +12,7 @@ const heroContent = {
   heroMobileImage: heroImg1,
   heroTitleName: "Eden Teklu",
   heroDesignation: "A software Engineer",
-  heroDescriptions: `I am a Software Engineer with a strong focus on SharePoint development and modern web technologies. I specialize in SharePoint On-Premise and SharePoint Online solutions, including branding and site customization, content management, access control, creating sites, webparts, Libraries and automate business processes using the Power Platform (Power Apps, Power Automate, Power BI), out-of-the-box (OOB) features, Visual Studio, SharePoint Designer, and Microsoft 365 to enhance collaboration and productivity. Additionally, I develop scalable full-stack applications using React, Node.js, Express, and MySQL, ASP.NET, webforms, JavaScript, HTML, and CSS ensuring performance, security, and excellent user experience. I enjoy transforming complex ideas into functional, efficient, and visually appealing solutions. I’m constantly learning new technologies and best practices to stay ahead in the rapidly evolving tech industry.`,
+  heroDescriptions: `I am a passionate Software Engineer specializing in SharePoint and modern web technologies. I design and customize SharePoint On-Premise and Online environments, streamline business processes with the Power Platform, and build scalable full-stack applications using React, Node.js, Express, MySQL, ASP.NET, and C#. I focus on performance, security, and user experience, transforming complex ideas into efficient, functional, and visually engaging solutions while continuously learning emerging technologies.`,
   heroBtn: "more about me",
 };
 

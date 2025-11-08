@@ -5,7 +5,7 @@ import Image3 from "../../assets/img/portfolio/project-3.jpg";
 const PortfolioData = [
   {
     id: 1,
-    type: "mockup project",
+    type: "Apple mockup project",
     image: Image1,
     tag: ["mockup"],
     delayAnimation: "0",
@@ -14,7 +14,7 @@ const PortfolioData = [
         project: "Website",      
         language: "HTML, CSS, Javascript, JQuery and Bootstrap",
         preview: "www.myapple.com",
-        link: "https://www.envato.com/",
+        link: "https://meirafeden1.github.io/Apple-project-mine/",
       },
     ],
   },
@@ -35,7 +35,7 @@ const PortfolioData = [
   },
   {
     id: 3,
-    type: "mockup project",
+    type: "Evangadi mockup project",
     image: Image3,
     tag: [],
     delayAnimation: "200",
@@ -49,6 +49,53 @@ const PortfolioData = [
     ],
   },
   
+   {
+    id: 4,
+    type: "search anything mockup project",
+    image: Image3,
+    tag: [],
+    delayAnimation: "300",
+    modalDetails: [
+      {
+        project: "Website",        
+        language: "REACT, NODE.JS",
+        preview: "https://mytubesearch.com",
+        link: "https://my-tubesearch.netlify.app/",
+      },
+    ],
+  },
+
+     {
+    id: 4,
+    type: "A youtube mockup project",
+    image: Image3,
+    tag: [],
+    delayAnimation: "100",
+    modalDetails: [
+      {
+        project: "Website",        
+        language: "REACT, NODE.JS",
+        preview: "https://myyoutube.com",
+        link: "https://my-tubesearch.netlify.app/",
+      },
+    ],
+  },
+
+   {
+    id: 4,
+    type: "A Netflix mockup project",
+    image: Image3,
+    tag: [],
+    delayAnimation: "100",
+    modalDetails: [
+      {
+        project: "Website",        
+        language: "REACT, NODE.JS",
+        preview: "https://mynetflix.com",
+        link: "https://meirafeden1.github.io/Netflix-project/",
+      },
+    ],
+  },
     ];
   
 
