@@ -2,7 +2,7 @@ import Image1 from "../../assets/img/portfolio/project-1.jpg";
 import Image2 from "../../assets/img/portfolio/project-2.jpg";
 import Image3 from "../../assets/img/portfolio/ayoutube.jpg";
 
-import Image5 from "../../assets/img/portfolio/ayoutube";
+// import Image5 from "../../assets/img/portfolio/ayoutube";
 
 import Image7 from "../../assets/img/portfolio/131net.jpg"
 
@@ -73,7 +73,7 @@ const PortfolioData = [
      {
     id: 4,
     type: "A youtube mockup project",
-    image: Image5,
+    image: Image3,
     tag: [],
     delayAnimation: "100",
     modalDetails: [
