@@ -1,6 +1,11 @@
 import Image1 from "../../assets/img/portfolio/project-1.jpg";
 import Image2 from "../../assets/img/portfolio/project-2.jpg";
-import Image3 from "../../assets/img/portfolio/project-3.jpg";
+import Image3 from "../../assets/img/portfolio/ayoutube.jpg";
+
+import Image5 from "../../assets/img/portfolio/ayoutube";
+
+import Image7 from "../../assets/img/portfolio/131net.jpg"
+
 
 const PortfolioData = [
   {
@@ -52,7 +57,7 @@ const PortfolioData = [
    {
     id: 4,
     type: "search anything mockup project",
-    image: Image3,
+    image: Image5,
     tag: [],
     delayAnimation: "300",
     modalDetails: [
@@ -68,7 +73,7 @@ const PortfolioData = [
      {
     id: 4,
     type: "A youtube mockup project",
-    image: Image3,
+    image: Image5,
     tag: [],
     delayAnimation: "100",
     modalDetails: [
@@ -84,7 +89,7 @@ const PortfolioData = [
    {
     id: 4,
     type: "A Netflix mockup project",
-    image: Image3,
+    image: Image7,
     tag: [],
     delayAnimation: "100",
     modalDetails: [
