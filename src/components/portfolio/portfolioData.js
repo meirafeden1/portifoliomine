@@ -1,8 +1,8 @@
 import Image1 from "../../assets/img/portfolio/project-1.jpg";
 import Image2 from "../../assets/img/portfolio/project-2.jpg";
-import Image3 from "../../assets/img/portfolio/ayoutube.jpg";
+import Image3 from "../../assets/img/portfolio/project-3.jpg";
 
-// import Image5 from "../../assets/img/portfolio/ayoutube";
+import Image5 from "../../assets/img/portfolio/ayoutube.jpg";
 
 import Image7 from "../../assets/img/portfolio/131net.jpg"
 
@@ -70,24 +70,8 @@ const PortfolioData = [
     ],
   },
 
-     {
-    id: 4,
-    type: "A youtube mockup project",
-    image: Image3,
-    tag: [],
-    delayAnimation: "100",
-    modalDetails: [
       {
-        project: "Website",        
-        language: "REACT, NODE.JS",
-        preview: "https://myyoutube.com",
-        link: "https://my-tubesearch.netlify.app/",
-      },
-    ],
-  },
-
-   {
-    id: 4,
+    id: 5,
     type: "A Netflix mockup project",
     image: Image7,
     tag: [],
