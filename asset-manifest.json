@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portifoliomine/static/css/main.4097701d.css",
-    "main.js": "/portifoliomine/static/js/main.8e387d02.js",
+    "main.js": "/portifoliomine/static/js/main.be393a2b.js",
     "static/js/206.bfa2aa1e.chunk.js": "/portifoliomine/static/js/206.bfa2aa1e.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/portifoliomine/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
     "static/media/fontawesome-webfont.eot": "/portifoliomine/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -27,6 +27,6 @@
   },
   "entrypoints": [
     "static/css/main.4097701d.css",
-    "static/js/main.8e387d02.js"
+    "static/js/main.be393a2b.js"
   ]
 }
