@@ -42,7 +42,7 @@ const PortfolioData = [
     id: 3,
     type: "Evangadi mockup project",
     image: Image3,
-    tag: [],
+    tag: ["mockup"],
     delayAnimation: "200",
     modalDetails: [
       {
@@ -58,7 +58,7 @@ const PortfolioData = [
     id: 4,
     type: "search anything mockup project",
     image: Image5,
-    tag: [],
+    tag: ["mockup"],
     delayAnimation: "300",
     modalDetails: [
       {
@@ -74,7 +74,7 @@ const PortfolioData = [
     id: 5,
     type: "A Netflix mockup project",
     image: Image7,
-    tag: [],
+    tag: ["mockup"],
     delayAnimation: "100",
     modalDetails: [
       {
